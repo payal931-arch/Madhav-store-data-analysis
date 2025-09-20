@@ -27,5 +27,7 @@ During the course of this project, the following key skills and techniques were 
 3. Data Manipulation and Calculation: Created connections, joined new tables, and performed calculations to manipulate data and enhance visualizations.
 4. Customized Visualizations: Utilized various customized visualizations such as bar charts, donut charts, clustered bar charts, slicers, etc., to present data effectively.
 
+![image alt](https://github.com/payal931-arch/Madhav-store-data-analysis/blob/27321d872f568e78d3180a7008334c7edfc50278/madav%20e-commerce%20store%20dashboard.png)
+
 
 
